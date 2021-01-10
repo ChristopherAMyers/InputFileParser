@@ -1,0 +1,11 @@
+vcube v_cube_file_goes_here
+
+n_elms 5
+
+$esp_files
+    file1
+    file2
+    file3
+$end_esp_files
+
+n_elms 6
